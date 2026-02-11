@@ -5,8 +5,8 @@
 	</listeners>
   <test name="Ninja Tutorials Test Cases">
     <classes>
-<!--		<class name="com.tutorialsninja.com.qa.testcases.RegisterTest"/>
-	   <class name="com.tutorialsninja.com.qa.testcases.LoginTest"/>-->
+		<class name="com.tutorialsninja.com.qa.testcases.RegisterTest"/>
+	   <class name="com.tutorialsninja.com.qa.testcases.LoginTest"/>
 	  <class name="com.tutorialsninja.com.qa.testcases.SearchTest"/>
     </classes>
   </test> <!-- Test -->
